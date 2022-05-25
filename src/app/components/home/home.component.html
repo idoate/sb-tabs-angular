@@ -1,3 +1,4 @@
+<div>
 <ng-container *ngFor="let tab of tabs">
     <app-tab
             [tabName]= "tab.name"
@@ -5,4 +6,5 @@
             (SendThisTab)="setCurrentTabText($event)"></app-tab>
 </ng-container>
 <p>{{texto}}</p>
+</div>
 

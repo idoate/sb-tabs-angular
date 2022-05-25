@@ -22,7 +22,7 @@
     "components": [
         {
             "name": "AppComponent",
-            "id": "component-AppComponent-982c458f92a055d6ff7931ce724629fb2687023044f0c7de23cf06baae84a10b648bceaa70a181ad08d32b67301abc1c317cede73daf867e1fedfb83810b9a01",
+            "id": "component-AppComponent-2574e109893741c1e8c6a0b749dba214e57c2c080a1979ff952def14a548c5f91164b45d6fbcd2b7053a4fac81514e7bfed6f3929cc113fde27f2600e1a6751e",
             "file": "src/app/app.component.ts",
             "encapsulation": [],
             "entryComponents": [],
@@ -42,8 +42,21 @@
             "outputsClass": [],
             "propertiesClass": [
                 {
+                    "name": "tabs",
+                    "defaultValue": "[\n    {\n      name:'tab 1',\n      text:'Texto do primeiro tab'\n    },\n    {\n      name:'tab 2',\n      text:'Texto do segundo tab'\n    },\n    {\n      name:'tab 3',\n      text:'Texto do terceiro tab'\n    },\n    {\n      name:'tab 4',\n      text:'Texto do quarto tab'\n    }\n  ]",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "[]",
+                    "optional": false,
+                    "description": "",
+                    "line": 10,
+                    "modifierKind": [
+                        123
+                    ]
+                },
+                {
                     "name": "title",
-                    "defaultValue": "'tab'",
+                    "defaultValue": "'sb-tabs-angular'",
                     "deprecated": false,
                     "deprecationMessage": "",
                     "type": "string",
@@ -60,7 +73,7 @@
             "description": "",
             "rawdescription": "\n",
             "type": "component",
-            "sourceCode": "import { Component } from '@angular/core';\n\n@Component({\n  selector: 'app-root',\n  templateUrl: './app.component.html',\n  styleUrls: ['./app.component.css']\n})\nexport class AppComponent {\n  title = 'tab';\n}\n",
+            "sourceCode": "import { Component } from '@angular/core';\n\n@Component({\n  selector: 'app-root',\n  templateUrl: './app.component.html',\n  styleUrls: ['./app.component.css']\n})\nexport class AppComponent {\n  title = 'sb-tabs-angular';\n  public tabs = [\n    {\n      name:'tab 1',\n      text:'Texto do primeiro tab'\n    },\n    {\n      name:'tab 2',\n      text:'Texto do segundo tab'\n    },\n    {\n      name:'tab 3',\n      text:'Texto do terceiro tab'\n    },\n    {\n      name:'tab 4',\n      text:'Texto do quarto tab'\n    }\n  ]\n}\n",
             "assetsDirs": [],
             "styleUrlsData": [
                 {
@@ -69,7 +82,7 @@
                 }
             ],
             "stylesData": "",
-            "templateData": "<h1>Tabs</h1>\n<app-home></app-home>\n"
+            "templateData": "<h1>Tabs</h1>\n<app-home\n    [tabs] = tabs></app-home>\n"
         },
         {
             "name": "ButtonComponent",
@@ -270,7 +283,7 @@
         },
         {
             "name": "HomeComponent",
-            "id": "component-HomeComponent-40f9e4c3312959712d3af838898e59dd67aba0de36d1b10f299b382df51af8775b31d03060ce5f6b154e3a48ad27df1f58642b354880e566b4e70fb137c7a95c",
+            "id": "component-HomeComponent-27bdc20295308e73ca31bfdfadb7e8366487e105c927fbd59e1e2bf46beb7d8693ce9327d9d6583db5b3bd1f2b94945f2d973bf9a84fbf2695e9c4c4c1dc29cb",
             "file": "src/app/components/home/home.component.ts",
             "encapsulation": [],
             "entryComponents": [],
@@ -286,22 +299,18 @@
                 "./home.component.html"
             ],
             "viewProviders": [],
-            "inputsClass": [],
-            "outputsClass": [],
-            "propertiesClass": [
+            "inputsClass": [
                 {
                     "name": "tabs",
-                    "defaultValue": "[\n    {\n      name:'tab 1',\n      text:'Texto do primeiro tab'\n    },\n    {\n      name:'tab 2',\n      text:'Texto do segundo tab'\n    },\n    {\n      name:'tab 3',\n      text:'Texto do terceiro tab'\n    },\n    {\n      name:'tab 4',\n      text:'Texto do quarto tab'\n    }\n  ]",
                     "deprecated": false,
                     "deprecationMessage": "",
-                    "type": "[]",
-                    "optional": false,
-                    "description": "",
-                    "line": 11,
-                    "modifierKind": [
-                        123
-                    ]
-                },
+                    "line": 10,
+                    "type": "literal type[]",
+                    "decorators": []
+                }
+            ],
+            "outputsClass": [],
+            "propertiesClass": [
                 {
                     "name": "texto",
                     "deprecated": false,
@@ -309,7 +318,7 @@
                     "type": "string",
                     "optional": false,
                     "description": "",
-                    "line": 10,
+                    "line": 9,
                     "modifierKind": [
                         123
                     ]
@@ -322,7 +331,7 @@
                     "optional": false,
                     "returnType": "void",
                     "typeParameters": [],
-                    "line": 32,
+                    "line": 17,
                     "deprecated": false,
                     "deprecationMessage": ""
                 },
@@ -339,7 +348,7 @@
                     "optional": false,
                     "returnType": "void",
                     "typeParameters": [],
-                    "line": 35,
+                    "line": 20,
                     "deprecated": false,
                     "deprecationMessage": "",
                     "jsdoctags": [
@@ -362,7 +371,7 @@
             "description": "",
             "rawdescription": "\n",
             "type": "component",
-            "sourceCode": "import { Component, OnInit } from '@angular/core';\n\n@Component({\n  selector: 'app-home',\n  templateUrl: './home.component.html',\n  styleUrls: ['./home.component.css']\n})\nexport class HomeComponent implements OnInit {\n\n  public texto!: string;\n  public tabs = [\n    {\n      name:'tab 1',\n      text:'Texto do primeiro tab'\n    },\n    {\n      name:'tab 2',\n      text:'Texto do segundo tab'\n    },\n    {\n      name:'tab 3',\n      text:'Texto do terceiro tab'\n    },\n    {\n      name:'tab 4',\n      text:'Texto do quarto tab'\n    }\n  ]\n\n  constructor() { }\n\n  ngOnInit(): void {\n  }\n\n  setCurrentTabText($event:any){\n    this.texto = $event.texto;\n\n  }\n}\n",
+            "sourceCode": "import {Component, Input, OnInit} from '@angular/core';\n\n@Component({\n  selector: 'app-home',\n  templateUrl: './home.component.html',\n  styleUrls: ['./home.component.css']\n})\nexport class HomeComponent implements OnInit {\n  public texto!: string;\n  @Input() tabs !: {\n    name: string,\n    text: string,\n  }[];\n\n  constructor() { }\n\n  ngOnInit(): void {\n  }\n\n  setCurrentTabText($event:any){\n    this.texto = $event.texto;\n\n  }\n}\n",
             "assetsDirs": [],
             "styleUrlsData": [
                 {
@@ -377,7 +386,7 @@
                 "deprecated": false,
                 "deprecationMessage": "",
                 "args": [],
-                "line": 28
+                "line": 13
             },
             "implements": [
                 "OnInit"
@@ -568,13 +577,13 @@
     "modules": [
         {
             "name": "AppModule",
-            "id": "module-AppModule-0e6d57b069a7b1c0effde73ce5cd472747eec9d568e5eeb3bb5d6ca866c0ba7fc0acf9cd5a1215cb4fd6d0c6e0d8536d2de11b698dc3aa7830fca373b6660a90",
+            "id": "module-AppModule-fd788b66bf31ffcd468601a668bb30493d117c9717567294d9819e106256598b82477f0be3b28ffa918b6d291ba43bcdbf7005bb0282c844744df7ff24c10fd1",
             "description": "",
             "deprecationMessage": "",
             "deprecated": false,
             "file": "src/app/app.module.ts",
             "methods": [],
-            "sourceCode": "import { NgModule } from '@angular/core';\nimport { BrowserModule } from '@angular/platform-browser';\n\nimport { AppComponent } from './app.component';\nimport { HomeComponent } from './components/home/home.component';\nimport { TabComponent } from './components/tab/tab.component';\n\n@NgModule({\n  declarations: [\n    AppComponent,\n    HomeComponent,\n    TabComponent\n  ],\n  imports: [\n    BrowserModule\n  ],\n  providers: [],\n  bootstrap: [AppComponent]\n})\nexport class AppModule { }\n",
+            "sourceCode": "import { NgModule } from '@angular/core';\nimport { BrowserModule } from '@angular/platform-browser';\n\nimport { AppComponent } from './app.component';\nimport {HomeComponent} from \"./components/home/home.component\";\nimport {TabComponent} from \"./components/tab/tab.component\";\n\n@NgModule({\n  declarations: [\n    AppComponent,\n    HomeComponent,\n    TabComponent\n  ],\n  imports: [\n    BrowserModule\n  ],\n  providers: [],\n  bootstrap: [AppComponent]\n})\nexport class AppModule { }\n",
             "children": [
                 {
                     "type": "providers",
@@ -633,21 +642,21 @@
                 "name": "environment",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
-                "file": "src/environments/environment.ts",
-                "deprecated": false,
-                "deprecationMessage": "",
-                "type": "object",
-                "defaultValue": "{\n  production: false\n}"
-            },
-            {
-                "name": "environment",
-                "ctype": "miscellaneous",
-                "subtype": "variable",
                 "file": "src/environments/environment.prod.ts",
                 "deprecated": false,
                 "deprecationMessage": "",
                 "type": "object",
                 "defaultValue": "{\n  production: true\n}"
+            },
+            {
+                "name": "environment",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/environments/environment.ts",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "object",
+                "defaultValue": "{\n  production: false\n}"
             },
             {
                 "name": "Large",
@@ -710,6 +719,26 @@
                 "defaultValue": "Template.bind({})"
             },
             {
+                "name": "Primary",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/home/home.stories.tsx",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "Story",
+                "defaultValue": "(args) => ({\n    props: args,\n})"
+            },
+            {
+                "name": "Primary",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/tab/tab.stories.tsx",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "Story",
+                "defaultValue": "(args) => ({\n    props: args,\n})"
+            },
+            {
                 "name": "require",
                 "ctype": "miscellaneous",
                 "subtype": "variable",
@@ -727,6 +756,16 @@
                 "deprecationMessage": "",
                 "type": "",
                 "defaultValue": "Template.bind({})"
+            },
+            {
+                "name": "Secondary",
+                "ctype": "miscellaneous",
+                "subtype": "variable",
+                "file": "src/app/components/tab/tab.stories.tsx",
+                "deprecated": false,
+                "deprecationMessage": "",
+                "type": "Story",
+                "defaultValue": "(args) => ({\n    props: args,\n})"
             },
             {
                 "name": "Small",
@@ -794,18 +833,6 @@
                     "type": "literal type"
                 }
             ],
-            "src/environments/environment.ts": [
-                {
-                    "name": "environment",
-                    "ctype": "miscellaneous",
-                    "subtype": "variable",
-                    "file": "src/environments/environment.ts",
-                    "deprecated": false,
-                    "deprecationMessage": "",
-                    "type": "object",
-                    "defaultValue": "{\n  production: false\n}"
-                }
-            ],
             "src/environments/environment.prod.ts": [
                 {
                     "name": "environment",
@@ -816,6 +843,18 @@
                     "deprecationMessage": "",
                     "type": "object",
                     "defaultValue": "{\n  production: true\n}"
+                }
+            ],
+            "src/environments/environment.ts": [
+                {
+                    "name": "environment",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/environments/environment.ts",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "object",
+                    "defaultValue": "{\n  production: false\n}"
                 }
             ],
             "src/stories/Button.stories.ts": [
@@ -933,6 +972,40 @@
                     "type": "Story<Page>",
                     "defaultValue": "(args: Page) => ({\n  props: args,\n})"
                 }
+            ],
+            "src/app/components/home/home.stories.tsx": [
+                {
+                    "name": "Primary",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/home/home.stories.tsx",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "Story",
+                    "defaultValue": "(args) => ({\n    props: args,\n})"
+                }
+            ],
+            "src/app/components/tab/tab.stories.tsx": [
+                {
+                    "name": "Primary",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/tab/tab.stories.tsx",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "Story",
+                    "defaultValue": "(args) => ({\n    props: args,\n})"
+                },
+                {
+                    "name": "Secondary",
+                    "ctype": "miscellaneous",
+                    "subtype": "variable",
+                    "file": "src/app/components/tab/tab.stories.tsx",
+                    "deprecated": false,
+                    "deprecationMessage": "",
+                    "type": "Story",
+                    "defaultValue": "(args) => ({\n    props: args,\n})"
+                }
             ]
         },
         "groupedFunctions": {},
@@ -950,7 +1023,7 @@
                 "linktype": "component",
                 "name": "AppComponent",
                 "coveragePercent": 0,
-                "coverageCount": "0/2",
+                "coverageCount": "0/3",
                 "status": "low"
             },
             {
@@ -963,12 +1036,42 @@
                 "status": "low"
             },
             {
+                "filePath": "src/app/components/home/home.stories.tsx",
+                "type": "variable",
+                "linktype": "miscellaneous",
+                "linksubtype": "variable",
+                "name": "Primary",
+                "coveragePercent": 0,
+                "coverageCount": "0/1",
+                "status": "low"
+            },
+            {
                 "filePath": "src/app/components/tab/tab.component.ts",
                 "type": "component",
                 "linktype": "component",
                 "name": "TabComponent",
                 "coveragePercent": 0,
                 "coverageCount": "0/7",
+                "status": "low"
+            },
+            {
+                "filePath": "src/app/components/tab/tab.stories.tsx",
+                "type": "variable",
+                "linktype": "miscellaneous",
+                "linksubtype": "variable",
+                "name": "Primary",
+                "coveragePercent": 0,
+                "coverageCount": "0/1",
+                "status": "low"
+            },
+            {
+                "filePath": "src/app/components/tab/tab.stories.tsx",
+                "type": "variable",
+                "linktype": "miscellaneous",
+                "linksubtype": "variable",
+                "name": "Secondary",
+                "coveragePercent": 0,
+                "coverageCount": "0/1",
                 "status": "low"
             },
             {
