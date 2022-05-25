@@ -1,0 +1,683 @@
+[0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+
+1.1.19
+
+TypeScript version used by Compodoc : 4.5.5
+
+TypeScript version of current project : 4.6.2
+
+Node.js version : v16.14.2
+
+Operating system : macOS Big Sur
+
+[16:17:40] No configuration file found, switching to CLI flags.
+[16:17:41] Using tsconfig file : /Users/inigoidoate/Desktop/sb-tabs-angular/tsconfig.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.DS_Store
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.browserslistrc
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.editorconfig
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.gitignore
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/angular.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/README.md
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/build-storybook.log
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/documentation.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/karma.conf.js
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/package-lock.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/package.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/tsconfig.app.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/tsconfig.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/tsconfig.spec.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.idea/.gitignore
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.idea/modules.xml
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.idea/sb-tabs-angular.iml
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.idea/vcs.xml
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.idea/workspace.xml
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.storybook/main.js
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.storybook/preview.js
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.storybook/tsconfig.json
+[16:17:41] Ignoring       : /Users/inigoidoate/Desktop/sb-tabs-angular/.storybook/typings.d.ts
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.vscode/extensions.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.vscode/launch.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.vscode/tasks.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/favicon.ico
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/index.html
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/main.ts
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/polyfills.ts
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/styles.css
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/test.ts
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/app.component.css
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/app.component.html
+[16:17:41] Ignoring       : /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/app.component.spec.ts
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/app.component.ts
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/app.module.ts
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/assets/.gitkeep
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/environments/environment.prod.ts
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/environments/environment.ts
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/Button.stories.ts
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/Header.stories.ts
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/Introduction.stories.mdx
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/Page.stories.ts
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/User.ts
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/button.component.ts
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/button.css
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/header.component.ts
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/header.css
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/page.component.ts
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/page.css
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/assets/code-brackets.svg
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/assets/colors.svg
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/assets/direction.svg
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/assets/plugin.svg
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/assets/comments.svg
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/assets/repo.svg
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/assets/flow.svg
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/assets/stackalt.svg
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/components/home/home.component.css
+[16:17:41] Ignoring       : /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/components/home/home.component.spec.ts
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/components/home/home.component.html
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/components/home/home.component.ts
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/components/home/home.stories.tsx
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/components/tab/tab.component.css
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/components/tab/tab.component.html
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/components/tab/tab.component.ts
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/components/tab/tab.stories.tsx
+[16:17:41] Ignoring       : /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/components/tab/tab.component.spec.ts
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/0294168a1c02eaadc7cd9305734b5954.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/03f882b5b2ac7d29734deac5f93b12fa.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/02d5eac86d65456efd847e5b4765caa1.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/07211fe5b28a5bbd52021a0cb42c0a3b.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/14a22da8963db5269c05398c949ad25f.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/176f7cbfe3d9ad8f57c3da14bb8141c5.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/1d64357c291465fcacecc0f5994090da.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/1f84965fde016915e9a7172cccd94856.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/213f4403a74dca8dfed6f1e0e3c609ca.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/2970e93b14e86011b1fe11813f93426c.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/29a3d28ca1fe5796e176d329b7bacf6c.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/2c42ae937fc89eed0f774430be0c4d55.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/2c86280eb242c77f42503b014bde26ae.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/2fa59a88f4419bb3fa442da6f02ff36e.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/3aa8a0074d215e24a926f183fb7f8177.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/3b79d334ef842f41702377a1c20da26f.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/0947f8da387bc907be57885a5de5b707.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/0febc0df17896f3d6095ca1b716f3f3d.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/3bd9709b5300810ee3d97c3ccb1b6150.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/352bc318550b25b7f1fe617634dac043.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/3e62680813e4c19f663a8cc149cc81ff.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/410faa91a72259dfc7ad6ebcfac7c08d.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/41353ec86b60c0db8c95b2c5ecd3b007.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/3ec1d92fbb75919ec6cb087d81437629.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/417d5a23e0f80bf21a0589747eb1751b.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/45dea30ace2c5d4a091fcfdf4ed7d202.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/49bd9187234e96f889fca5aa1b4c5363.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/49db6ae41aaacbb206a52775765ebd60.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/4c735d1943528154f07350ba42ca75a4.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/4e7b14dc3e81ea099a8f19fe26f5c4e8.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/577b9c6b84b72e6ccc11a0fc0ee7b650.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/517a5f8fb54d1c4979829af50b08d3e7.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/5ab4e5d291e75b05c1d2b96194f26c13.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/5b78fc3d875a8c8f25a6866a32c1ca56.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/5de3e8918a35e32fa7c1b20bbb957bb0.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/6168f949adc933bae0d9c3e177617e5a.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/63a1b79c81f6e38a2f57278fd8768911.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/667aca950c24b1e5a6bcdad281ec876a.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/68f38ad8514f97ba2d5ac9cac07258d5.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/66a4c3415abc0b4c691053cb34345b1c.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/691a7ef213c8ec675e88159cad5c3e67.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/696bd555b027099c419751b25b5685b7.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/6996cd066dbeff7c37ff8c9f775d553f.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/6ebb621a91646bb13e1f19cb78723007.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/769f4202a5a20f1d2bcda3f1a4f21f80.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/7bc8b6f173cf280eb90ebb5152bbd70d.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/83a5a4c337146a1288909088f5b496b9.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/846207c5db52f24def7c90cdea3ab508.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/86f6c31cbed98cdbf25b7bb64e112b79.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/8824987ea91adf6aa1c132c77c11a098.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/88ce2b76b3254e3c9c58f69b0b95335a.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/94158f2ccc531777cf25b45e186cfa3a.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/959e908a13f95e28abc2dbee536c34ef.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/8db888e4bdf4720213b155f8ae3b65dd.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/9772f29ba2453125955fdb37c6e48a2e.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/9bcd005955e3f68bbf9bf6297064566d.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/9a769dc7b1c4f5c58d89ead9ba865b94.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/9d8fc8933953b84448f25e06e9ac63ba.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/9da0e5b2de27cec8cdc71afd7264696b.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/9e2e2ec86a404836d49cd2adf70b5bcb.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/a693bb9f2a766dd33e145af382dea66e.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/9e6be6917bc7335a1f9553420b1a292d.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/a4869d247215257f526143fa3f287c7d.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/b1584920ebab70b7834a430196c9d2fe.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/b0f937c53f462a812a8c013230c93cff.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/ad269db54fd52852ab2785a78e60d5f2.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/b6df7aa1f2c196687499aadce68a5501.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/b9f5a13dd09939de5270de58666a2671.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/bfcbfe03f41a8263e3dffe68c84adc39.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/bbaaf282c59135e6ba4f317c19e215c2.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/c263321456b70831ab8837bee22ddbfd.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/c4813d501895fc2b6b039d151aa8940f.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/c0b57b6afcb6ee10a296626f4bbd28eb.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/c59db7b05daa891b0730f606878c6245.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/c9e39e0b5e98af34d2e9fdee999b8d10.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/cce311dfc2a1d8a5150082d5afc09bc6.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/d374a246a2e087d7c255e2dfe0a3eaf5.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/d875402e84351b0a57147b870009ceea.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/d8e3c5a2447390fb70945ce9b77463a4.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/dc5ce744f6541d965d2611e925b3f92d.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/dc7e9252c6c518529e3ed0438b128fbc.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/debe1d13a8dc0264aea1e8266851e16f.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/e02f8f6ba3ab845ed0576164e45202ee.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/e381996fcc13bfb523345bbdc466e002.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/e9a4a4ed5c2648afeb83c826bc60f7fd.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/f57539b5d3a24d4239e39a80f62e06d7.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/f2d93bc5e55ce10db182d2cef49227c2.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/e32b7e0119e5537a5b0c3e258ba7a0eb.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/f64325fd50ca18166f521d8b2ed5b1ff.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/f4b8d04a7e07563fb5b0914d385abe5d.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/fe8169ed27de9556c4e090b121782e04.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/fefe1a27c5eb4089f703dde2f88f0eb8.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/f848c9d60273647a324edccf23a634f7.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/ffa186c2136c671d908e6ca29eb45287.json
+[16:17:41] Including      : /Users/inigoidoate/Desktop/sb-tabs-angular/.angular/cache/13.3.6/babel-webpack/ff20c9eb0b52aaa2fc3dcd139cf793c5.json
+[16:17:41] Searching package.json file
+[16:17:41] package.json file found
+[16:17:41] Processing package.json dependencies
+[16:17:41] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[16:17:41] README.md file found
+[16:17:41] Error during /Users/inigoidoate/Desktop/sb-tabs-angular/CHANGELOG read
+[16:17:41] Continuing without CHANGELOG.md file
+[16:17:41] Error during /Users/inigoidoate/Desktop/sb-tabs-angular/CONTRIBUTING read
+[16:17:41] Continuing without CONTRIBUTING.md file
+[16:17:41] Error during /Users/inigoidoate/Desktop/sb-tabs-angular/LICENSE read
+[16:17:41] Continuing without LICENSE.md file
+[16:17:41] Error during /Users/inigoidoate/Desktop/sb-tabs-angular/TODO read
+[16:17:41] Continuing without TODO.md file
+[16:17:41] Get dependencies data
+[16:17:41] parsing        : /Users/inigoidoate/Desktop/sb-tabs-angular/src/main.ts
+[16:17:41] parsing        : /Users/inigoidoate/Desktop/sb-tabs-angular/src/polyfills.ts
+[16:17:41] parsing        : /Users/inigoidoate/Desktop/sb-tabs-angular/src/test.ts
+[16:17:41] found          : require
+[16:17:41] found          : context
+[16:17:41] parsing        : /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/app.component.ts
+[16:17:41] found          : AppComponent
+[16:17:41] parsing        : /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/app.module.ts
+[16:17:41] found          : AppModule
+[16:17:41]                : - imports:
+[16:17:41]                : 	- BrowserModule
+[16:17:41]                : - declarations:
+[16:17:41]                : 	- AppComponent
+[16:17:41]                : 	- HomeComponent
+[16:17:41]                : 	- TabComponent
+[16:17:41]                : - bootstrap:
+[16:17:41]                : 	- AppComponent
+[16:17:41] parsing        : /Users/inigoidoate/Desktop/sb-tabs-angular/src/environments/environment.prod.ts
+[16:17:41] found          : environment
+[16:17:41] parsing        : /Users/inigoidoate/Desktop/sb-tabs-angular/src/environments/environment.ts
+[16:17:41] found          : environment
+[16:17:41] parsing        : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/Button.stories.ts
+[16:17:41] found          : Template
+[16:17:41] found          : Primary
+[16:17:41] found          : Secondary
+[16:17:41] found          : Large
+[16:17:41] found          : Small
+[16:17:41] parsing        : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/Header.stories.ts
+[16:17:41] found          : Template
+[16:17:41] found          : LoggedIn
+[16:17:41] found          : LoggedOut
+[16:17:41] parsing        : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/Page.stories.ts
+[16:17:41] found          : Template
+[16:17:41] found          : LoggedOut
+[16:17:41] found          : LoggedIn
+[16:17:41] parsing        : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/User.ts
+[16:17:41] found          : User
+[16:17:41] parsing        : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/button.component.ts
+[16:17:41] found          : ButtonComponent
+[16:17:41] parsing        : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/header.component.ts
+[16:17:41] found          : HeaderComponent
+[16:17:41] parsing        : /Users/inigoidoate/Desktop/sb-tabs-angular/src/stories/page.component.ts
+[16:17:41] found          : PageComponent
+[16:17:41] parsing        : /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/components/home/home.component.ts
+[16:17:41] found          : HomeComponent
+[16:17:41] parsing        : /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/components/home/home.stories.tsx
+[16:17:41] found          : Template
+[16:17:41] found          : Primary
+[16:17:41] parsing        : /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/components/tab/tab.component.ts
+[16:17:41] found          : TabComponent
+[16:17:41] parsing        : /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/components/tab/tab.stories.tsx
+[16:17:41] found          : Primary
+[16:17:41] found          : Secondary
+[16:17:41] -------------------
+[16:17:41] Project statistics 
+[16:17:41] - files      : 160
+[16:17:41] - module     : 1
+[16:17:41] - component  : 6
+[16:17:41] - interface  : 1
+[16:17:41] -------------------
+[16:17:41] Prepare components
+[16:17:41]  AppComponent has a templateUrl, include it
+[16:17:41]  AppComponent has styleUrls, include them
+[16:17:41]  ButtonComponent has styleUrls, include them
+[16:17:41]  HeaderComponent has styleUrls, include them
+[16:17:41]  HomeComponent has a templateUrl, include it
+[16:17:41]  HomeComponent has styleUrls, include them
+[16:17:41]  PageComponent has styleUrls, include them
+[16:17:41]  TabComponent has a templateUrl, include it
+[16:17:41]  TabComponent has styleUrls, include them
+[16:17:41] Prepare modules
+[16:17:41] Prepare interfaces
+[16:17:41] Prepare miscellaneous
+[16:17:41] Process documentation coverage report
+[16:17:41] Generating documentation in export format json
+[16:17:41] Documentation generated in ./ in 0.491 seconds
+info @storybook/angular v6.5.5
+info 
+info => Cleaning outputDir: /var/folders/0k/9w47l8m927ng63c8rfd5vphm0000gn/T/chromatic--24936-d9bpGfDJFyUf
+info => Loading presets
+info => Compiling manager..
+info => Compiling preview..
+info Addon-docs: using MDX1
+info => Using implicit CSS loaders
+info => Loading angular-cli config for angular >= 13.0.0
+info => Using angular project with "tsConfig:/Users/inigoidoate/Desktop/sb-tabs-angular/.storybook/tsconfig.json"
+WARN Your Storybook startup uses a solution that will not be supported in version 7.0. 
+WARN You must use angular builder to have an explicit configuration on the project used in angular.json
+WARN Read more at:
+WARN - https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#sb-angular-builder)
+WARN - https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#angular13)
+info => Using angular project "sb-tabs-angular:build" for configuring Storybook
+info => Using default Webpack5 setup
+<s> [webpack.Progress] 0% 
+
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 1% setup before run NodeEnvironmentPlugin
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 4% setup normal module factory CaseSensitivePathsPlugin
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 6% setup before compile angular-compiler
+<s> [webpack.Progress] 6% setup before compile ProgressPlugin
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 7% setup compile ExternalsPlugin
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 8% setup compilation CopyPlugin
+<s> [webpack.Progress] 8% setup compilation angular-compiler
+<s> [webpack.Progress] 8% setup compilation mini-css-extract-plugin
+<s> [webpack.Progress] 8% setup compilation ArrayPushCallbackChunkFormatPlugin
+<s> [webpack.Progress] 8% setup compilation JsonpChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation StartupChunkDependenciesPlugin
+<s> [webpack.Progress] 8% setup compilation ImportScriptsChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileWasmPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileAsyncWasmPlugin
+<s> [webpack.Progress] 8% setup compilation WorkerPlugin
+<s> [webpack.Progress] 8% setup compilation SplitChunksPlugin
+<s> [webpack.Progress] 8% setup compilation RuntimeChunkPlugin
+<s> [webpack.Progress] 8% setup compilation ResolverCachePlugin
+<s> [webpack.Progress] 8% setup compilation HtmlWebpackPlugin
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 9% setup compilation named-chunks-plugin
+<s> [webpack.Progress] 9% setup compilation DedupeModuleResolvePlugin
+<s> [webpack.Progress] 9% setup compilation AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 9% setup compilation mini-css-extract-plugin
+<s> [webpack.Progress] 9% setup compilation SuppressExtractedTextChunks
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation ProvidePlugin
+<s> [webpack.Progress] 9% setup compilation ProgressPlugin
+<s> [webpack.Progress] 9% setup compilation ChunkPrefetchPreloadPlugin
+<s> [webpack.Progress] 9% setup compilation SourceMapDevToolPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptModulesPlugin
+<s> [webpack.Progress] 9% setup compilation JsonModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AssetModulesPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation RuntimePlugin
+<s> [webpack.Progress] 9% setup compilation InferAsyncModulesPlugin
+<s> [webpack.Progress] 9% setup compilation DataUriPlugin
+<s> [webpack.Progress] 9% setup compilation FileUriPlugin
+<s> [webpack.Progress] 9% setup compilation CompatibilityPlugin
+<s> [webpack.Progress] 9% setup compilation HarmonyModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AMDPlugin
+<s> [webpack.Progress] 9% setup compilation RequireJsStuffPlugin
+<s> [webpack.Progress] 9% setup compilation CommonJsPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation NodeStuffPlugin
+<s> [webpack.Progress] 9% setup compilation APIPlugin
+<s> [webpack.Progress] 9% setup compilation ExportsInfoApiPlugin
+<s> [webpack.Progress] 9% setup compilation WebpackIsIncludedPlugin
+<s> [webpack.Progress] 9% setup compilation ConstPlugin
+<s> [webpack.Progress] 9% setup compilation UseStrictPlugin
+<s> [webpack.Progress] 9% setup compilation RequireIncludePlugin
+<s> [webpack.Progress] 9% setup compilation RequireEnsurePlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation ImportPlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation SystemPlugin
+<s> [webpack.Progress] 9% setup compilation ImportMetaPlugin
+<s> [webpack.Progress] 9% setup compilation URLPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsFactoryPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPresetPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPrinterPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptMetaInfoPlugin
+<s> [webpack.Progress] 9% setup compilation EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 9% setup compilation RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 9% setup compilation MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 9% setup compilation FlagIncludedChunksPlugin
+<s> [webpack.Progress] 9% setup compilation SideEffectsFlagPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyExportsPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyUsagePlugin
+<s> [webpack.Progress] 9% setup compilation InnerGraphPlugin
+<s> [webpack.Progress] 9% setup compilation MangleExportsPlugin
+<s> [webpack.Progress] 9% setup compilation ModuleConcatenationPlugin
+<s> [webpack.Progress] 9% setup compilation NoEmitOnErrorsPlugin
+<s> [webpack.Progress] 9% setup compilation RealContentHashPlugin
+<s> [webpack.Progress] 9% setup compilation WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 9% setup compilation NamedModuleIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation TerserPlugin
+<s> [webpack.Progress] 9% setup compilation TemplatedPathPlugin
+<s> [webpack.Progress] 9% setup compilation RecordIdsPlugin
+<s> [webpack.Progress] 9% setup compilation WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 9% setup compilation IgnoreWarningsPlugin
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 10% building
+<s> [webpack.Progress] 10% building 0/1 entries 0/0 dependencies 0/0 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/babel-loader/lib/index.js
+<s> [webpack.Progress] 10% building 0/17 entries 3/17 dependencies 0/3 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/mini-css-extract-plugin/dist/loader.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/css-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/postcss-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building 0/17 entries 12/17 dependencies 0/12 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@ngtools/webpack/src/ivy/index.js
+<s> [webpack.Progress] 10% building 0/17 entries 14/18 dependencies 0/14 modules
+<s> [webpack.Progress] 13% building 1/17 entries 35/100 dependencies 5/32 modules
+<s> [webpack.Progress] 13% building import loader ./node_modules/@storybook/mdx1-csf/loader.js
+<s> [webpack.Progress] 13% building 1/17 entries 116/151 dependencies 5/73 modules
+<s> [webpack.Progress] 16% building 2/17 entries 124/151 dependencies 7/81 modules
+<s> [webpack.Progress] 16% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
+<s> [webpack.Progress] 16% building 2/17 entries 147/225 dependencies 9/86 modules
+<s> [webpack.Progress] 19% building 3/17 entries 221/250 dependencies 17/125 modules
+<s> [webpack.Progress] 19% building 3/17 entries 411/472 dependencies 42/189 modules
+<s> [webpack.Progress] 19% building 3/17 entries 800/949 dependencies 87/286 modules
+<s> [webpack.Progress] 19% building 3/17 entries 1100/1129 dependencies 116/362 modules
+<s> [webpack.Progress] 19% building 3/17 entries 1400/1457 dependencies 183/409 modules
+<s> [webpack.Progress] 22% building 4/17 entries 1653/1982 dependencies 246/438 modules
+<s> [webpack.Progress] 22% building 4/17 entries 1800/2201 dependencies 257/535 modules
+<s> [webpack.Progress] 22% building 4/17 entries 2300/2687 dependencies 293/644 modules
+<s> [webpack.Progress] 22% building 4/17 entries 3100/3128 dependencies 326/892 modules
+<s> [webpack.Progress] 22% building 4/17 entries 3200/3417 dependencies 348/897 modules
+<s> [webpack.Progress] 22% building 4/17 entries 3280/3449 dependencies 359/900 modules
+<s> [webpack.Progress] 22% building 4/17 entries 3700/3756 dependencies 403/966 modules
+<s> [webpack.Progress] 22% building 4/17 entries 4100/4141 dependencies 473/988 modules
+<s> [webpack.Progress] 22% building 4/17 entries 4300/4360 dependencies 539/1028 modules
+<s> [webpack.Progress] 22% building 4/17 entries 4500/4525 dependencies 643/1086 modules
+<s> [webpack.Progress] 22% building 4/17 entries 4900/5037 dependencies 816/1171 modules
+<s> [webpack.Progress] 22% building 4/17 entries 4961/5100 dependencies 877/1193 modules
+<s> [webpack.Progress] 22% building 4/17 entries 5277/5308 dependencies 934/1300 modules
+<s> [webpack.Progress] 22% building 4/17 entries 5683/5800 dependencies 1071/1406 modules
+<s> [webpack.Progress] 22% building 4/17 entries 6000/6047 dependencies 1155/1564 modules
+<s> [webpack.Progress] 23% building 4/17 entries 6100/6184 dependencies 1249/1592 modules
+<s> [webpack.Progress] 24% building 4/17 entries 6183/6195 dependencies 1300/1625 modules
+<s> [webpack.Progress] 25% building 4/17 entries 6244/6300 dependencies 1393/1635 modules
+<s> [webpack.Progress] 26% building 4/17 entries 6339/6400 dependencies 1455/1645 modules
+<s> [webpack.Progress] 26% building 4/17 entries 6466/6500 dependencies 1481/1669 modules
+<s> [webpack.Progress] 27% building 5/17 entries 6682/6694 dependencies 1587/1699 modules
+<s> [webpack.Progress] 29% building 6/17 entries 6682/6694 dependencies 1588/1699 modules
+<s> [webpack.Progress] 32% building 7/17 entries 6682/6694 dependencies 1589/1699 modules
+<s> [webpack.Progress] 35% building 8/17 entries 6682/6694 dependencies 1590/1699 modules
+<s> [webpack.Progress] 39% building 9/17 entries 6682/6694 dependencies 1591/1699 modules
+<s> [webpack.Progress] 42% building 10/17 entries 6682/6694 dependencies 1592/1699 modules
+<s> [webpack.Progress] 45% building 11/17 entries 6682/6694 dependencies 1593/1699 modules
+<s> [webpack.Progress] 48% building 12/17 entries 6682/6694 dependencies 1594/1699 modules
+<s> [webpack.Progress] 52% building 13/17 entries 6805/6813 dependencies 1634/1719 modules
+<s> [webpack.Progress] 55% building 14/17 entries 6922/6924 dependencies 1706/1764 modules
+<s> [webpack.Progress] 58% building 15/17 entries 6934/6935 dependencies 1742/1767 modules
+<s> [webpack.Progress] 61% building 16/17 entries 6934/6935 dependencies 1742/1767 modules
+<s> [webpack.Progress] 65% building 17/17 entries 6936/6936 dependencies 1768/1768 modules
+<s> [webpack.Progress] 65% building
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing finish module graph angular-compiler
+<s> [webpack.Progress] 70% sealing finish module graph ResolverCachePlugin
+<s> [webpack.Progress] 70% sealing finish module graph InferAsyncModulesPlugin
+<s> [webpack.Progress] 70% sealing finish module graph FlagDependencyExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph InnerGraphPlugin
+<s> [webpack.Progress] 70% sealing finish module graph WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 70% sealing plugins WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing dependencies optimization SideEffectsFlagPlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization FlagDependencyUsagePlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 75% sealing chunk optimization EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization SplitChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization ModuleConcatenationPlugin
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 79% sealing module reviving RecordIdsPlugin
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 80% sealing module ids NamedModuleIdsPlugin
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 82% sealing chunk reviving RecordIdsPlugin
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 84% sealing chunk id optimization FlagIncludedChunksPlugin
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record modules RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 86% sealing record chunks RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 92% sealing asset processing copy-webpack-plugin
+<s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 92% sealing asset processing TerserPlugin
+info => Manager built (46 s)
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.3ac648eb.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.3ac648eb.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.6323b46f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.6323b46f.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.9e176bc9.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.9e176bc9.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.be3deb21.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.be3deb21.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.c9acfa0d.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.c9acfa0d.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.b139144c.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.b139144c.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.6524d563.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.6524d563.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.47ba1917.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.47ba1917.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 225.39531452.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 225.39531452.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.99331eb6.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.99331eb6.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 643.93d96f71.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 643.93d96f71.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 643.93d96f71.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 643.93d96f71.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.f401c222.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.f401c222.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.54327fb4.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.54327fb4.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 747.d4212f19.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 747.d4212f19.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 345.aa07933b.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 345.aa07933b.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 996.6b3b3ad1.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 996.6b3b3ad1.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 225.9eed3f49.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 225.9eed3f49.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 239.86ca9380.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 239.86ca9380.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 471.1fa34938.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 471.1fa34938.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 39.8ff959f9.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 39.8ff959f9.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 291.95423fac.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 291.95423fac.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 98% emitting after emit SizeLimitsPlugin
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% done plugins CaseSensitivePathsPlugin
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% 
+
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 100% 
+
+info => Preview built (57 s)
+WARN /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/app.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/inigoidoate/Desktop/sb-tabs-angular/src/app/app.module.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/inigoidoate/Desktop/sb-tabs-angular/src/environments/environment.prod.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/inigoidoate/Desktop/sb-tabs-angular/src/environments/environment.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/inigoidoate/Desktop/sb-tabs-angular/src/main.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   471.1fa34938.iframe.bundle.js (791 KiB)
+WARN   643.7d3e0c27.iframe.bundle.js (3.71 MiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (3.79 MiB)
+WARN       runtime~main.54327fb4.iframe.bundle.js
+WARN       643.7d3e0c27.iframe.bundle.js
+WARN       main.css
+WARN       main.f401c222.iframe.bundle.js
+WARN 
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 100% 
+
+info => Output directory: /var/folders/0k/9w47l8m927ng63c8rfd5vphm0000gn/T/chromatic--24936-d9bpGfDJFyUf
